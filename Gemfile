@@ -24,7 +24,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 # gem for creating, logging and managing users
 gem 'devise', '~> 4.2'
-
+gem 'paperclip', '~> 5.0'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
