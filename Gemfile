@@ -25,6 +25,9 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 # gem for creating, logging and managing users
 gem 'devise', '~> 4.2'
 gem 'paperclip', '~> 5.0'
+gem 'paperclip-googledrive-new'
+gem 'google-api-client', '~> 0.9.12'
+
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
