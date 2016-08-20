@@ -23,7 +23,7 @@ pl:
         subject: "Instrukcja zresetowania hasła."
       unlock_instructions:
         subject: "Instrukcja odblokowania konta"
-	  password_change:
+      password_change:
         subject: "Hasło zmienione"
     omniauth_callbacks:
       failure: "Logowanie przez konto %{kind} zakończyło się błędem: \"%{reason}\"."
